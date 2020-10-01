@@ -1,5 +1,4 @@
-#include<iostream>
-#include<cmath>
+#include<bits/stdc++.h>
 using namespace std;
 
 void csort10(int a[],int n,int d)
